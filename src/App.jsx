@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Edwin Balbuena",
-  title: "Programador y Embajador en Microsoft Learn Student Ambassadors",
+  title: "Programmer and Ambassador at Microsoft Learn Student Ambassadors",
   email: "edwinbalbuena189@gmail.com",
   gitHub: "xPshycho",
   instagram: "balbuena.edwinn",
