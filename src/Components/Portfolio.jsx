@@ -31,28 +31,28 @@ const imageAltText = "A crab on the beach";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Object-Oriented Programming Project: Hospital",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project aimed to develop a system to manage medical information, including consultations, diseases, vaccinations and summaries of medical records. Technologies such as Java, Eclipse and various libraries were used.",
+    url: "https://github.com/CactuZzz24/-Proyecto-Final-POO-CSTI-1830-4361",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Join Microsoft Learn Student Ambassadors",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Microsoft Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.🎉",
+    url: "https://mvp.microsoft.com/studentambassadors",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/xPshycho/resume",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Simple Encryptor",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This repository contains the source code for a simple encryptor built with CSS, HTML, and basic JavaScript. ",
+    url: "https://github.com/xPshycho/Encriptador",
   },
 ];
 
